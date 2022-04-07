@@ -1,0 +1,11 @@
+#sold-items {
+    color: green;
+}
+
+#stock-items {
+    color: blue;
+}
+
+#current-stock {
+    color: red;
+}
