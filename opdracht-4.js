@@ -48,7 +48,6 @@ tvObject(inventory[0]);
 function generateTv(inputArray) {
     const tvModelList = document.getElementById("list-all-tvs");
 
-
     const modelItem = inputArray.map((singleItem) => {
 
         const tvSizes = singleItem.availableSizes.map((inch) => {
