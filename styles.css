@@ -1,0 +1,16 @@
+#sold-items {
+    color: green;
+}
+
+#stock-items {
+    color: blue;
+}
+
+#current-stock {
+    color: red;
+}
+
+button  {
+    background-color: grey;
+    border: 1px solid black;
+}
